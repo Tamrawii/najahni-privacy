@@ -35,25 +35,17 @@ How do you exercise your rights?
 The easiest way to exercise your rights is by submitting a data subject access request or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
 Want to learn more about what we do with any information we collect? Review the Privacy Notice in full.
-TABLE OF CONTENTS
+## TABLE OF CONTENTS
 
-WHAT INFORMATION DO WE COLLECT?
-
-HOW DO WE PROCESS YOUR INFORMATION?
-
-WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
-
-HOW LONG DO WE KEEP YOUR INFORMATION?
-
-WHAT ARE YOUR PRIVACY RIGHTS?
-
-CONTROLS FOR DO-NOT-TRACK FEATURES
-
-DO WE MAKE UPDATES TO THIS NOTICE?
-
-HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
-
-HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+- WHAT INFORMATION DO WE COLLECT?
+- HOW DO WE PROCESS YOUR INFORMATION?
+- WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
+- HOW LONG DO WE KEEP YOUR INFORMATION?
+- WHAT ARE YOUR PRIVACY RIGHTS?
+- CONTROLS FOR DO-NOT-TRACK FEATURES
+- DO WE MAKE UPDATES TO THIS NOTICE?
+- HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+- HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
 1. WHAT INFORMATION DO WE COLLECT?
 Personal information you disclose to us
@@ -96,7 +88,7 @@ Withdrawing your consent: If we are relying on your consent to process your pers
 
 However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
-If you have questions or comments about your privacy rights, you may email us at louati.asma.21@gmail.com.
+If you have questions or comments about your privacy rights, you may email us at najahni.tn@gmail.com.
 6. CONTROLS FOR DO-NOT-TRACK FEATURES
 
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage, no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Notice.
@@ -107,7 +99,7 @@ In Short: Yes, we will update this notice as necessary to stay compliant with re
 We may update this Privacy Notice from time to time. The updated version will be indicated by an updated "Revised" date at the top of this Privacy Notice. If we make material changes to this Privacy Notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this Privacy Notice frequently to be informed of how we are protecting your information.
 8. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-If you have questions or comments about this notice, you may email us at louati.asma.21@gmail.com or contact us by post at:
+If you have questions or comments about this notice, you may email us at najahni.tn@gmail.com or contact us by post at:
 
 Najahni.tn
 18 Somaa Streets
